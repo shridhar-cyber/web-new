@@ -34,7 +34,7 @@ const images = {
   paneer: 'https://images.pexels.com/photos/11188417/pexels-photo-11188417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   paneerTikka: 'https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&h=650&w=940',
   paneerSpecial: 'https://images.pexels.com/photos/29685056/pexels-photo-29685056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  vegKolhapuri: 'https://images.pexels.com/photos/13823417/pexels-photo-13823417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  vegKolhapuri: 'https://images.pexels.com/photos/33430561/pexels-photo-33430561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   curry: 'https://images.pexels.com/photos/35993886/pexels-photo-35993886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   dosa: 'https://images.pexels.com/photos/20422138/pexels-photo-20422138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   biryani: 'https://images.pexels.com/photos/7593267/pexels-photo-7593267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
