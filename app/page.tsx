@@ -34,7 +34,7 @@ const images = {
   paneer: 'https://images.pexels.com/photos/11188417/pexels-photo-11188417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   paneerTikka: 'https://images.pexels.com/photos/3928854/pexels-photo-3928854.png?auto=compress&cs=tinysrgb&h=650&w=940',
   paneerSpecial: 'https://images.pexels.com/photos/29685056/pexels-photo-29685056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  vegKolhapuri: 'https://images.pexels.com/photos/19969210/pexels-photo-19969210.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
+  vegKolhapuri: 'https://images.pexels.com/photos/13823417/pexels-photo-13823417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   curry: 'https://images.pexels.com/photos/35993886/pexels-photo-35993886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   dosa: 'https://images.pexels.com/photos/20422138/pexels-photo-20422138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   biryani: 'https://images.pexels.com/photos/7593267/pexels-photo-7593267.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
@@ -42,7 +42,6 @@ const images = {
   manchurian: 'https://images.pexels.com/photos/28674530/pexels-photo-28674530.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   friedRice: 'https://images.pexels.com/photos/35588196/pexels-photo-35588196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
   pavBhaji: 'https://images.pexels.com/photos/166654/pexels-photo-166654.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
-  ambience: 'https://images.pexels.com/photos/10148453/pexels-photo-10148453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940',
 };
 
 const mapLink = 'https://www.google.com/maps/search/?api=1&query=Shrikrishna+Pure+Veg+Restaurant+Baramati';
@@ -240,7 +239,7 @@ export default function Home() {
 
   const gallery = [
     [images.thali, 'Vegetarian thali'], [images.paneer, 'Paneer specialities'], [images.dosa, 'South Indian favourites'],
-    [images.biryani, 'Biryani and rice'], [images.chineseNoodles, 'Chinese favourites'], [images.ambience, 'Family dining ambience'],
+    [images.biryani, 'Biryani and rice'], [images.chineseNoodles, 'Chinese favourites'], [images.pavBhaji, 'Mumbai street snacks'],
   ];
 
   const scrollTo = (id: string) => {
